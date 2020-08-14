@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+h2 {
+    color: Orange;
+    font-weight: bold;
+    font-style: italic;
+}
