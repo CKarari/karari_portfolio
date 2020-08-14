@@ -8,3 +8,9 @@ h2 {
     font-weight: bold;
     font-style: italic;
 }
+
+h3 {
+    color: green;
+    font-weight: bold;
+    font-style: oblique;
+}
