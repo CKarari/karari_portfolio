@@ -11,6 +11,9 @@ h2 {
     font-weight: bold;
     font-style: italic;
 }
+div {
+  column-count: 1;
+}
 
 h3 {
     color: blue;
