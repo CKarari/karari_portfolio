@@ -19,3 +19,8 @@ h3 {
 img {
   float: right;
 }
+
+.column {
+    width: 200px;
+    float: left;
+  }
