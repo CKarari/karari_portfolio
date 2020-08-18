@@ -11,6 +11,7 @@ h2 {
     color: Orange;
     font-weight: bold;
     font-style: italic;
+    text-align: center;
 }
 div {
   column-count: 1;
@@ -30,9 +31,20 @@ float:none;
     float: left;
   }
 
-  body {background-color: green:
+  body {background-color: #008031;
 }
 
 .boxed {
-    border: 1px solid green ;
+    border: 1px solid rgb(8, 202, 112) ;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .column {
+    float: left;
+    width: 50%;
   }
