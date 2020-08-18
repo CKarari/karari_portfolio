@@ -2,6 +2,7 @@ h1 {
     color: blue;
     font-weight: bold;
     font-family: fantasy;
+    text-align: center;
 
 
 }
@@ -27,4 +28,11 @@ float:none;
 .columns {
     width: 200px;
     float: left;
+  }
+
+  body {background-color: green:
+}
+
+.boxed {
+    border: 1px solid green ;
   }
